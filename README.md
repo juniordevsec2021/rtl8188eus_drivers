@@ -1,7 +1,7 @@
 # rtl8188eus_drivers
-wifi adapter drivers TL-WN722N
- RTL8188EUS
-802.11bgn USB 2.0 Network Interface Controller 
+### Wifi adapter drivers TL-WN722N
+### RTL8188EUS
+### 802.11bgn USB 2.0 Network Interface Controller 
 
 * sudo apt update
 * sudo apt install bc
