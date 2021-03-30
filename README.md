@@ -15,3 +15,4 @@
 * make
 * sudo make install
 * sudo modprobe 8188eu
+* sudo reboot
